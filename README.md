@@ -8,9 +8,16 @@ This project uses **NumPy** to simulate, analyze, and extract insights from synt
 
 ## 📬 Author
 
-Gbenga Kajola
-Certified Data Scientist, Certified Data Analyst, Certified SQL Database Programmer & Business Analyst
-LinkedIn
+**Gbenga Kajola**
+
+[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
+
+[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
+
+[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
+
+[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
+
 
 ---
 
